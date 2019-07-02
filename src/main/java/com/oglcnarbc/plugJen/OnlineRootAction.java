@@ -16,7 +16,7 @@ public class OnlineRootAction implements RootAction {
     @CheckForNull
     @Override
     public String getDisplayName() {
-        return "oglcnarbc-plugg";
+        return "oglcnarbc-plug";
     }
 
     @CheckForNull
